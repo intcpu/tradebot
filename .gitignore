@@ -1,0 +1,6 @@
+.DS_Store
+nohup.out
+dump.rdb
+.idea/
+logs/
+__pycache__
